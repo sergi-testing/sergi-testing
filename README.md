@@ -2,6 +2,8 @@
 
 [![Readme Card](https://sergi-github-readme-stats.vercel.app/api/pin/?username=sergi-s&repo=IR-Models)](https://github.com/sergi-s/IR-Models)
 
+[![Readme Card](https://sergi-github-readme-stats.vercel.app/api/pin/?username=sergi-s&repo=English-spelling-practice)](https://github.com/sergi-s/English-spelling-practice)
+
 <!--
 **sergi-testing/sergi-testing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
